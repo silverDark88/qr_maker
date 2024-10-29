@@ -1,3 +1,6 @@
+> .[!NOTE]
+> Estoy Dispuesto a cuualquier Modifición
+
 Español: Se recomienda leer el archivo readme.html antes de usar el generador de códigos QR. Para más información, revisa la wiki del repositorio de GitHub.
 
 English: It is recommended to read the readme.html file before using the QR code generator. For more information, check out the wiki of the GitHub repository.
