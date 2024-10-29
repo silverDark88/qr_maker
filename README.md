@@ -15,3 +15,6 @@ Français: Il est recommandé de lire le fichier readme.html avant d'utiliser le
 Deutsch: Es wird empfohlen, die Datei readme.html vor der Verwendung des QR-Code-Generators zu lesen. Weitere Informationen finden Sie in der Wiki des GitHub-Repositories.
 
 Português: Recomenda-se ler o arquivo readme.html antes de usar o gerador de códigos QR. Para mais informações, consulte a wiki do repositório do GitHub.
+
+> .[!NOTE]
+> Estoy Dispuesto a cuualquier Modifición
