@@ -1,4 +1,4 @@
-> .[!NOTE]
+> .[!IMPORTANT]
 > Estoy Dispuesto a cuualquier Modifición
 
 Español: Se recomienda leer el archivo readme.html antes de usar el generador de códigos QR. Para más información, revisa la wiki del repositorio de GitHub.
